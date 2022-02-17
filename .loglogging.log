@@ -1,0 +1,6 @@
+2022-02-15 17:48:38 INFO  BaseClass:15 - The URL is opened
+  2022-02-15 17:48:38 INFO  BaseClass:19 - Entered username
+  2022-02-15 17:48:38 INFO  BaseClass:22 - Entered password
+  2022-02-15 17:48:40 INFO  BaseClass:25 - Submit button is clicked
+  2022-02-15 17:48:40 INFO  BaseClass:29 - Login test case passed
+  
